@@ -1,0 +1,18 @@
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./com.lclrc.hammerit_1.7.1_iphoneos-arm64e.deb
+Size: 2753746
+MD5sum: 0da0d7b56637852f21e42498ea9fb036
+SHA1: 6f56ac5a24daa347b8fc02935469112cfa267162
+SHA256: e8e06208861d8c138e2495c9487ad58ab1c5b503c200e418c81fc3d0c2a9196e
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
